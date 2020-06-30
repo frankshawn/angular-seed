@@ -2176,7 +2176,7 @@ fs-access@^1.0.0:
 
 fs-extra@^0.23.1:
   version "0.23.1"
-  resolved "http://registry.npmjs.org/fs-extra/-/fs-extra-0.23.1.tgz#6611dba6adf2ab8dc9c69fab37cddf8818157e3d"
+  resolved "https://registry.npmjs.org/fs-extra/-/fs-extra-0.23.1.tgz#6611dba6adf2ab8dc9c69fab37cddf8818157e3d"
   dependencies:
     graceful-fs "^4.1.2"
     jsonfile "^2.1.0"
@@ -3455,9 +3455,10 @@ markdown-loader@^2.0.1:
     loader-utils "^1.1.0"
     marked "^0.3.6"
 
-marked@^0.3.6, marked@^0.3.7:
-  version "0.3.7"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-0.3.7.tgz#80ef3bbf1bd00d1c9cfebe42ba1b8c85da258d0d"
+marked@^0.3.18, marked@^0.3.6:
+  version "0.3.18"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-0.3.18.tgz#3ef058cd926101849b92a7a7c15db18c7fc76b2f"
+  integrity sha512-49i2QYhfULqaXzNZpxC808PisuCTGT2fgG0zrzdCI9N3rIfAWfW0nggvbXr6zvpynZdOG5+9xNxdzP0kwZnERw==
 
 matcher-collection@^1.0.0:
   version "1.0.5"
